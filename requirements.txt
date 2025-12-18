@@ -1,0 +1,20 @@
+
+# Python Backend Dependencies
+# O'rnatish: pip install -r requirements.txt
+
+# Telegram Bot
+aiogram==3.3.0
+
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Data validation
+pydantic==2.5.3
+
+# HTTP
+httpx==0.26.0
+
+# Additional
+python-dotenv==1.0.0
+python-multipart==0.0.6
